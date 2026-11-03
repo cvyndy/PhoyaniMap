@@ -1,0 +1,3 @@
+module phoyanimap/backend
+
+go 1.22
